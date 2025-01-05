@@ -1,0 +1,19 @@
+{
+  "name": "algorithms-design-from-scratch",
+  "version": "1.0.0",
+  "description": "Implementation of cloud native base camp algorithms course",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^9.15.0",
+    "prettier": "^3.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
